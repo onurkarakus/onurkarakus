@@ -35,7 +35,7 @@
   <p>Verified expertise in Microsoft Specialist: Programming in C#</p>
   
   <a href="https://learn.microsoft.com/users/onurkarakus/transcript" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Microsot-Transcript-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/My%20Microsoft-Transcript-blue?style=flat-square" />
   </a>
   
 </div>
@@ -43,6 +43,7 @@
 
 <h3>🛠️ Tech Stack & Architecture</h3>
 
+<p>
 <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vertical%20Slice-Architecture-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
@@ -64,7 +65,7 @@
 <img src="https://img.shields.io/badge/AI%20Agents-181717?style=flat-square&logo=artificialintelligence&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-
+</p>
 <br/>
 
 ---
@@ -73,15 +74,15 @@
 <ul>
   <li>
     <b><a href="https://github.com/onurkarakus">Nexus.Commerce.Modular</a></b>: 
-    A high-performance <i>Modular Monolith</i> E-Commerce infrastructure built with.NET 9 and Vertical Slice Architecture.
+    A high-performance <i>Modular Monolith</i> E-Commerce infrastructure built with.NET 9 and Vertical Slice Architecture. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
   </li>
   <li>
     <b><a href="https://github.com/onurkarakus">Sentinel.AI</a></b>: 
-    A Semantic Kernel-based AI Agent that analyzes application logs and offers self-healing suggestions.
+    A Semantic Kernel-based AI Agent that analyzes application logs and offers self-healing suggestions. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
   </li>
   <li>
     <b>.NET Aspire</b>: 
-    Orchestration and dashboard integrations for cloud-native applications.
+    Orchestration and dashboard integrations for cloud-native applications. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
   </li>
 </ul>
 
