@@ -72,6 +72,11 @@
 
 <h3>🚀 Current Focus & Projects</h3>
 <ul>
+  
+  <li>
+    <b><a href="https://github.com/onurkarakus/Isotope.ABTesting">Isotope.ABTesting</a></b>: 
+    A Modern, High-Performance .NET A/B Testing Library with Fluent API Support <img src="https://img.shields.io/badge/Finished-darkgreen?style=flat-square" />
+  </li>
   <li>
     <b><a href="https://github.com/onurkarakus/SubifyProject">Subify Project</a></b>: 
     A high-performance <i>Modular Monolith Backend</i> and <i>Flutter Mobile</i> project which users to check and control their subscriptions. Infrastructure built with.NET 9 and Vertical Slice Architecture. Mobile application built with Flutter. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
@@ -85,7 +90,7 @@
     A Semantic Kernel-based AI Agent that analyzes application logs and offers self-healing suggestions. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
   </li>
   <li>
-    <b>.NET Aspire</b>: 
+    <b>.NET Aspire Example</b>: 
     Orchestration and dashboard integrations for cloud-native applications. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
   </li>
 </ul>
