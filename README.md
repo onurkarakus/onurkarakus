@@ -32,9 +32,10 @@
 
 <div align="left">
   <h3>🏆 Microsoft Certifications</h3>
+  <p>Microsoft Certified Professional</p>
   <p>Verified expertise in Microsoft Specialist: Programming in C#</p>
   
-  <a href="https://learn.microsoft.com/users/onurkarakus/transcript" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/users/onurkarakus/transcript?source=docs" target="_blank">
     <img src="https://img.shields.io/badge/My%20Microsoft-Transcript-blue?style=flat-square" />
   </a>
   
