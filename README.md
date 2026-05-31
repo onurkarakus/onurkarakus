@@ -77,9 +77,8 @@
   <li>
     <b><a href="https://github.com/onurkarakus/Isotope.ABTesting">Isotope.ABTesting</a></b>: 
     A Modern, High-Performance .NET A/B Testing Library with Fluent API Support <img src="https://img.shields.io/badge/Finished-darkgreen?style=flat-square" />
-  </li>
+  </li>  
   <li>
-    <li>
     <b><a href="https://github.com/onurkarakus/AegisAuth">AegisAuth</a></b>: 
     A .NET-based multi-tenant authentication and authorization API that features secure user registration, token management, and an integrated administrative portal. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
   </li>
