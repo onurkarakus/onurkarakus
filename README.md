@@ -84,7 +84,7 @@
   </li>
   <li>
     <b><a href="https://github.com/onurkarakus/SubifyProject">Subify Project</a></b>: 
-    A high-performance <i>Modular Monolith Backend</i> and <i>Flutter Mobile</i> project which users to check and control their subscriptions. Infrastructure built with.NET 9 and Vertical Slice Architecture. Mobile application built with Flutter. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
+    A high-performance <i>Modular Monolith Backend</i> and <i>Flutter Mobile</i> project which users to check and control their subscriptions. Infrastructure built with.NET 9 and Vertical Slice Architecture. Mobile application built with Flutter. <img src="https://img.shields.io/badge/Finished-darkgreen?style=flat-square" />
   </li>
   <li>
     <b><a href="https://github.com/onurkarakus">Nexus.Commerce.Modular</a></b>: 
