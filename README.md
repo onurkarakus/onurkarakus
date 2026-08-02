@@ -4,10 +4,7 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/onurkarakus">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<div align="center"> 
   <a href="https://onnurkarakus.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
