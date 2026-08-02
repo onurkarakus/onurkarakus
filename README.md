@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Onur%20Karakus&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Senior%20.NET%20Developer%20%7C%20Cloud-Native%20%26%20Distributed%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Onur+Karakus;Senior+.NET+Developer;Cloud-Native+%26+Distributed+Systems" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center"> 
+<div align="center">
+  <a href="https://linkedin.com/in/onurkarakus">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://onnurkarakus.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://twitter.com/onurkarakus_">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="mailto:onurkarakus2103@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -116,15 +119,6 @@ Currently exploring **AI Agents** (Semantic Kernel) and **.NET Aspire** to autom
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=onurkarakus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurkarakus&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 <div align="center">
   <br/>
   <p><i>"The code you write makes you a programmer. The code you delete makes you a good one."</i></p>
@@ -132,10 +126,4 @@ Currently exploring **AI Agents** (Semantic Kernel) and **.NET Aspire** to autom
   <a href="https://github.com/onurkarakus?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-➡️-0078D4?style=for-the-badge" alt="Portfolio"/>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=120&section=footer" width="100%"/>
 </div>
