@@ -1,110 +1,124 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=180&section=header&text=Onur%20KARAKU%C5%9E&fontSize=70&fontColor=ffffff&fontAlign=50&desc=Senior%20.NET%20Developer%20%7C%20Cloud-Native%20Architect&descAlign=50&descSize=20&animation=fadeIn" 
-    alt="Onur Karakuş Header" 
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Onur%20KARAKU%C5%9E&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Senior%20.NET%20Developer%20%7C%20Cloud-Native%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/onurkarakus" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://onnurkarakus.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:seninmailadresin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/onurkarakus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://onnurkarakus.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://twitter.com/onurkarakus_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:seninmailadresin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<br />
-
-<h3>👨‍💻 About Me</h3>
-<p>
-  Hello! I'm <b>Onur</b>, a Senior Software Developer specializing in scalable distributed systems and <b>Cloud-Native</b> architectures. 
-  I focus on solving complex business problems using the <b>.NET ecosystem</b>, <b>Modular Monolithic</b> architectures, and <b>Domain-Driven Design (DDD)</b> principles.
-</p>
-<p>
-  Currently, I am conducting R&D on systems that automate operational processes using <b>AI Agents</b> (Semantic Kernel) and <b>.NET Aspire</b>.
-</p>
-
-
-<div align="left">
-  <h3>🏆 Microsoft Certifications</h3>
-  <p>Microsoft Certified Professional</p>
-  <p>Verified expertise in Microsoft Specialist: Programming in C#</p>
-  
-  <a href="https://learn.microsoft.com/en-us/users/onurkarakus/transcript?source=docs" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Microsoft-Transcript-blue?style=flat-square" />
-  </a>
-  
-</div>
-
-
-<h3>🛠️ Tech Stack & Architecture</h3>
-
-<p>
-<img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vertical%20Slice-Architecture-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Pattern-DDD-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Modular-Monolith-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-181717?style=flat-square&logo=microservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-FF0000?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/CI/CD-181717?style=flat-square&logo=ci/cd&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-181717?style=flat-square&logo=artificialintelligence&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-</p>
 <br/>
+
+### 👨‍💻 About Me
+
+Merhaba, ben **Onur**.  
+
+Scalable distributed systems ve **Cloud-Native** mimariler üzerine uzmanlaşmış bir Senior .NET Developer’ım.  
+Karmaşık iş problemlerini **.NET ekosistemi**, **Modular Monolith**, **Vertical Slice Architecture** ve **Domain-Driven Design (DDD)** prensipleriyle çözüyorum.
+
+Şu an **AI Agents** (Semantic Kernel) ve **.NET Aspire** ile operasyonel süreçleri otomatize eden sistemler üzerinde R&D yapıyorum.
 
 ---
 
-<h3>🚀 Current Focus & Projects</h3>
-<ul>
-  
-  <li>
-    <b><a href="https://github.com/onurkarakus/Isotope.ABTesting">Isotope.ABTesting</a></b>: 
-    A Modern, High-Performance .NET A/B Testing Library with Fluent API Support <img src="https://img.shields.io/badge/Finished-darkgreen?style=flat-square" />
-  </li>  
-  <li>
-    <b><a href="https://github.com/onurkarakus/AegisAuth">AegisAuth</a></b>: 
-    A .NET-based multi-tenant authentication and authorization API that features secure user registration, token management, and an integrated administrative portal. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
-  </li>
-  <li>
-    <b><a href="https://github.com/onurkarakus/SubifyProject">Subify Project</a></b>: 
-    A high-performance <i>Modular Monolith Backend</i> and <i>Flutter Mobile</i> project which users to check and control their subscriptions. Infrastructure built with.NET 9 and Vertical Slice Architecture. Mobile application built with Flutter. <img src="https://img.shields.io/badge/Finished-darkgreen?style=flat-square" />
-  </li>
-  <li>
-    <b><a href="https://github.com/onurkarakus">Nexus.Commerce.Modular</a></b>: 
-    A high-performance <i>Modular Monolith</i> E-Commerce infrastructure built with.NET 9 and Vertical Slice Architecture. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
-  </li>
-  <li>
-    <b><a href="https://github.com/onurkarakus">Sentinel.AI</a></b>: 
-    A Semantic Kernel-based AI Agent that analyzes application logs and offers self-healing suggestions. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
-  </li>
-  <li>
-    <b>.NET Aspire Example</b>: 
-    Orchestration and dashboard integrations for cloud-native applications. <img src="https://img.shields.io/badge/In%20Progress-red?style=flat-square" />
-  </li>
-</ul>
+### 🏆 Microsoft Certifications
+
+- Microsoft Certified Professional  
+- Microsoft Specialist: Programming in C#
+
+[![Microsoft Transcript](https://img.shields.io/badge/Microsoft%20Transcript-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/onurkarakus/transcript)
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend & Architecture**  
+![.NET](https://img.shields.io/badge/.NET%209%2F10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Vertical Slice](https://img.shields.io/badge/Vertical%20Slice-Architecture-0A66C2?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-Domain%20Driven-0A66C2?style=flat-square)
+![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-0A66C2?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS%20%2B%20MediatR-0A66C2?style=flat-square)
+
+**Cloud & Infrastructure**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Frontend & Mobile**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**AI & Observability**  
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-AI%20Agents-512BD4?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/onurkarakus/SubifyProject">Subify OS</a></h3>
+      <p>Self-hosted subscription & personal finance tracker.<br/>
+      Clean Architecture · .NET · Next.js · PostgreSQL · Docker · AI (BYOK) · Multi-user</p>
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+      <img src="https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/onurkarakus/Isotope.ABTesting">Isotope.ABTesting</a></h3>
+      <p>Modern high-performance .NET A/B Testing library.<br/>
+      Fluent API · Redis · MurmurHash3 · Fail-Open · Zero-allocation paths</p>
+      <img src="https://img.shields.io/badge/Status-Finished-success?style=flat-square"/>
+      <img src="https://img.shields.io/badge/NuGet-Ready-blue?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/onurkarakus/AegisAuth">AegisAuth</a></h3>
+      <p>Multi-tenant authentication & authorization API + Admin Portal.<br/>
+      Secure registration · Token management · Tenant isolation</p>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/onurkarakus/dotnet-oauth2-refresh-token-api">OAuth2 + Refresh Token API</a></h3>
+      <p>JWT Access + Refresh Token Rotation · PBKDF2 · Rate Limiting · Clean Architecture · Full test coverage</p>
+      <img src="https://img.shields.io/badge/Status-Finished-success?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+**Diğer önemli çalışmalar:**
+- [dotnet-vertical-slice-template](https://github.com/onurkarakus/dotnet-vertical-slice-template) → Production-ready Vertical Slice + CQRS + REPR template
+- [JwtAuthForBooks](https://github.com/onurkarakus/JwtAuthForBooks) → Klasik ama solid JWT örneği (en çok star alan repo)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onurkarakus&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurkarakus&layout=compact&theme=radical&hide_border=true" height="160"/>
+</div>
 
 ---
 
 <div align="center">
   <p><i>"The code you write makes you a programmer. The code you delete makes you a good one."</i></p>
+  <br/>
   <a href="https://github.com/onurkarakus?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-➡️-blue?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-➡️-0078D4?style=for-the-badge"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=100&section=footer"/>
 </div>
