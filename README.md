@@ -7,15 +7,11 @@
 <div align="center"> 
   <a href="https://onnurkarakus.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://twitter.com/onurkarakus_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  </a> 
+  <a href="mailto:onurkarakus2103@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
 <br/>
 
 ### 👨‍💻 About Me
