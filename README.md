@@ -1,24 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Onur%20KARAKU%C5%9E&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Senior%20.NET%20Developer%20%7C%20Cloud-Native%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Onur%20Karakus&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Senior%20.NET%20Developer%20%7C%20Cloud-Native%20%26%20Distributed%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/onurkarakus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://onnurkarakus.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://twitter.com/onurkarakus_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:seninmailadresin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/>
+
+<div align="center"> 
+  <a href="https://onnurkarakus.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://twitter.com/onurkarakus_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:onurkarakus2103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 
-Merhaba, ben **Onur**.  
+Hi, I'm **Onur** — a Senior Software Developer specializing in **scalable distributed systems** and **Cloud-Native architectures**.
 
-Scalable distributed systems ve **Cloud-Native** mimariler üzerine uzmanlaşmış bir Senior .NET Developer’ım.  
-Karmaşık iş problemlerini **.NET ekosistemi**, **Modular Monolith**, **Vertical Slice Architecture** ve **Domain-Driven Design (DDD)** prensipleriyle çözüyorum.
+I solve complex business problems using the **.NET ecosystem**, **Modular Monoliths**, **Vertical Slice Architecture**, and **Domain-Driven Design (DDD)** principles.
 
-Şu an **AI Agents** (Semantic Kernel) ve **.NET Aspire** ile operasyonel süreçleri otomatize eden sistemler üzerinde R&D yapıyorum.
+Currently exploring **AI Agents** (Semantic Kernel) and **.NET Aspire** to automate operational processes.
 
 ---
 
@@ -65,60 +71,71 @@ Karmaşık iş problemlerini **.NET ekosistemi**, **Modular Monolith**, **Vertic
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/onurkarakus/SubifyProject">Subify OS</a></h3>
-      <p>Self-hosted subscription & personal finance tracker.<br/>
-      Clean Architecture · .NET · Next.js · PostgreSQL · Docker · AI (BYOK) · Multi-user</p>
+      <p>
+        Self-hosted subscription & personal finance tracker.<br/>
+        Clean Architecture · .NET · Next.js · PostgreSQL · Docker · AI (BYOK) · Multi-user
+      </p>
       <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
       <img src="https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/onurkarakus/Isotope.ABTesting">Isotope.ABTesting</a></h3>
-      <p>Modern high-performance .NET A/B Testing library.<br/>
-      Fluent API · Redis · MurmurHash3 · Fail-Open · Zero-allocation paths</p>
+      <p>
+        Modern high-performance .NET A/B Testing library.<br/>
+        Fluent API · Redis · MurmurHash3 · Fail-Open · Zero-allocation paths
+      </p>
       <img src="https://img.shields.io/badge/Status-Finished-success?style=flat-square"/>
-      <img src="https://img.shields.io/badge/NuGet-Ready-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Library-Ready-blue?style=flat-square"/>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/onurkarakus/AegisAuth">AegisAuth</a></h3>
-      <p>Multi-tenant authentication & authorization API + Admin Portal.<br/>
-      Secure registration · Token management · Tenant isolation</p>
+      <p>
+        Multi-tenant authentication & authorization API + Admin Portal.<br/>
+        Secure registration · Token management · Tenant isolation
+      </p>
       <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square"/>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/onurkarakus/dotnet-oauth2-refresh-token-api">OAuth2 + Refresh Token API</a></h3>
-      <p>JWT Access + Refresh Token Rotation · PBKDF2 · Rate Limiting · Clean Architecture · Full test coverage</p>
+      <p>
+        JWT Access + Refresh Token Rotation · PBKDF2 · Rate Limiting · Clean Architecture · Full test coverage
+      </p>
       <img src="https://img.shields.io/badge/Status-Finished-success?style=flat-square"/>
     </td>
   </tr>
 </table>
 
-**Diğer önemli çalışmalar:**
+**Other notable projects:**
 - [dotnet-vertical-slice-template](https://github.com/onurkarakus/dotnet-vertical-slice-template) → Production-ready Vertical Slice + CQRS + REPR template
-- [JwtAuthForBooks](https://github.com/onurkarakus/JwtAuthForBooks) → Klasik ama solid JWT örneği (en çok star alan repo)
+- [JwtAuthForBooks](https://github.com/onurkarakus/JwtAuthForBooks) → Solid JWT authentication example (most starred)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurkarakus&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurkarakus&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=onurkarakus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurkarakus&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
 <div align="center">
+  <br/>
   <p><i>"The code you write makes you a programmer. The code you delete makes you a good one."</i></p>
   <br/>
   <a href="https://github.com/onurkarakus?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-➡️-0078D4?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-➡️-0078D4?style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=120&section=footer" width="100%"/>
 </div>
