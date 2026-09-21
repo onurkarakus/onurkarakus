@@ -87,6 +87,15 @@ Currently exploring **AI Agents** (Semantic Kernel) and **.NET Aspire** to autom
       <img src="https://img.shields.io/badge/Library-Ready-blue?style=flat-square"/>
     </td>
   </tr>  
+   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/onurkarakus/dotnet-oauth2-refresh-token-api">OAuth2 + Refresh Token API</a></h3>
+      <p>
+        JWT Access + Refresh Token Rotation · PBKDF2 · Rate Limiting · Clean Architecture · Full test coverage
+      </p>
+      <img src="https://img.shields.io/badge/Status-Finished-success?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 
 **Other notable projects:**
