@@ -86,8 +86,7 @@ Currently exploring **AI Agents** (Semantic Kernel) and **.NET Aspire** to autom
       <img src="https://img.shields.io/badge/Status-Finished-success?style=flat-square"/>
       <img src="https://img.shields.io/badge/Library-Ready-blue?style=flat-square"/>
     </td>
-  </tr>
-  
+  </tr>  
 </table>
 
 **Other notable projects:**
