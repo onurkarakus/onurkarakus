@@ -24,6 +24,18 @@ Currently exploring **AI Agents** (Semantic Kernel) and **.NET Aspire** to autom
 
 ---
 
+### 🚀 Featured Project: Package Hub for VS Code
+
+I built and maintain **[Package Hub](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub)**, a VS Code extension designed to streamline dependency management directly inside the editor without terminal context-switching.
+
+[![VS Marketplace Version](https://img.shields.io/badge/Marketplace-v0.0.1-blue?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub)
+[![VS Code Extension](https://img.shields.io/badge/VS_Code-Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub)
+
+* **Key Focus:** Fast package exploration, seamless updates, and zero performance overhead on the editor.
+* **Get it on:** [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub)
+
+---
+
 ### 🏆 Microsoft Certifications
 
 - Microsoft Certified Professional  
