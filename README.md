@@ -24,15 +24,42 @@ Currently exploring **AI Agents** (Semantic Kernel) and **.NET Aspire** to autom
 
 ---
 
-### 🚀 Featured Project: Package Hub for VS Code
+### 🧩 VS Code Extensions
 
-I built and maintain **[Package Hub](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub)**, a VS Code extension designed to streamline dependency management directly inside the editor without terminal context-switching.
+I build and maintain VS Code extensions that keep everyday developer chores inside the editor.
 
-[![VS Marketplace Version](https://img.shields.io/badge/Marketplace-v0.0.1-blue?style=flat-square&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub)
-[![VS Code Extension](https://img.shields.io/badge/VS_Code-Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://raw.githubusercontent.com/onurkarakus/todo-forge/main/media/icon.png" width="28" height="28" align="center" alt="TodoForge icon"/>
+        <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge">TodoForge</a>
+      </h3>
+      <p>
+        Every TODO in your code, in one tree, with owners, due dates and a Changes view for your branch.<br/>
+        Fast on big .NET and web repos. Offline. No account. No telemetry.
+      </p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge"><img src="https://img.shields.io/badge/VS%20Marketplace-Install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Marketplace"/></a>
+      <a href="https://github.com/onurkarakus/todo-forge"><img src="https://img.shields.io/github/stars/onurkarakus/todo-forge?style=flat-square&logo=github" alt="GitHub stars"/></a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub">PackageHub</a></h3>
+      <p>
+        Manage your NuGet packages inside the editor. See which packages are vulnerable, outdated or deprecated right on the package line, and apply the safe update in one click.<br/>
+        C# · F# · <code>.csproj</code> · <code>.fsproj</code> · <code>.sln</code> · <code>Directory.Packages.props</code>
+      </p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub"><img src="https://img.shields.io/badge/VS%20Marketplace-Install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Marketplace"/></a>
+      <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet"/>
+    </td>
+  </tr>
+</table>
 
-* **Key Focus:** Fast package exploration, seamless updates, and zero performance overhead on the editor.
-* **Get it on:** [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub)
+<details>
+  <summary><b>▶️ TodoForge demo</b></summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/onurkarakus/todo-forge/main/media/screenshots/demo.gif" alt="TodoForge demo" width="100%"/>
+</details>
 
 ---
 
@@ -113,6 +140,7 @@ I built and maintain **[Package Hub](https://marketplace.visualstudio.com/items?
 **Other notable projects:**
 - [dotnet-vertical-slice-template](https://github.com/onurkarakus/dotnet-vertical-slice-template) → Production-ready Vertical Slice + CQRS + REPR template
 - [JwtAuthForBooks](https://github.com/onurkarakus/JwtAuthForBooks) → Solid JWT authentication example (most starred)
+- [TodoForge](https://github.com/onurkarakus/todo-forge) → Source code of the TodoForge VS Code extension
 
 ---
 
