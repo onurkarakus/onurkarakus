@@ -127,8 +127,8 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
     <td width="50%" valign="top">
       <h3><a href="https://github.com/onurkarakus/SubifyProject">Subify OS</a></h3>
       <p>
-        Self-hosted subscription & personal finance tracker.<br/>
-        Clean Architecture · .NET · Next.js · PostgreSQL · Docker · AI (BYOK) · Multi-user
+        Self-hosted subscription & personal finance tracker. No freemium, bring your own AI key and SMTP.<br/>
+        Clean Architecture · .NET 10 · Next.js · PostgreSQL · Docker · Multi-user
       </p>
       <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
       <img src="https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet"/>
@@ -137,28 +137,40 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
     <td width="50%" valign="top">
       <h3><a href="https://github.com/onurkarakus/Isotope.ABTesting">Isotope.ABTesting</a></h3>
       <p>
-        Modern high-performance .NET A/B Testing library.<br/>
-        Fluent API · Redis · MurmurHash3 · Fail-Open · Zero-allocation paths
+        High-performance .NET A/B testing library.<br/>
+        Fluent API · MurmurHash3 deterministic allocation · Redis · Fail-Open
       </p>
-      <img src="https://img.shields.io/badge/Status-Finished-success?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Library-Ready-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+      <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet"/>
+      <img src="https://img.shields.io/badge/Tests-125-brightgreen?style=flat-square"/>
 </td>
-  </tr>  
-   <tr>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/onurkarakus/Refinery">Refinery</a></h3>
+      <p>
+        Distributed worker pipeline that turns raw emails into AI-classified tickets.<br/>
+        Worker Services · Redis Streams · Semantic Kernel · EF Core
+      </p>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
+      <img src="https://img.shields.io/badge/.NET-9-512BD4?style=flat-square&logo=dotnet"/>
+      <img src="https://img.shields.io/badge/Redis-Streams-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/onurkarakus/dotnet-oauth2-refresh-token-api">OAuth2 + Refresh Token API</a></h3>
       <p>
-        JWT Access + Refresh Token Rotation · PBKDF2 · Rate Limiting · Clean Architecture · Full test coverage
+        JWT access tokens with refresh token rotation.<br/>
+        PBKDF2 hashing · Rate limiting · Clean Architecture · Unit & integration tests
       </p>
       <img src="https://img.shields.io/badge/Status-Finished-success?style=flat-square"/>
+      <img src="https://img.shields.io/badge/.NET-8-512BD4?style=flat-square&logo=dotnet"/>
 </td>
   </tr>
 </table>
 
-**Other notable projects:**
-- [dotnet-vertical-slice-template](https://github.com/onurkarakus/dotnet-vertical-slice-template) → Production-ready Vertical Slice + CQRS + REPR template
-- [JwtAuthForBooks](https://github.com/onurkarakus/JwtAuthForBooks) → Solid JWT authentication example (most starred)
-- [TodoForge](https://github.com/onurkarakus/todo-forge) → Source code of the TodoForge VS Code extension
+**Other projects:**
+- [dotnet-vertical-slice-template](https://github.com/onurkarakus/dotnet-vertical-slice-template) → Vertical Slice + CQRS + MediatR template on .NET 9
+- Article samples → companion code for my [blog](https://onurkarakus.com.tr) and [Medium](https://onnurkarakus.medium.com/) posts, tagged [`blog-sample`](https://github.com/onurkarakus?tab=repositories&q=topic%3Ablog-sample)
 
 ---
 
