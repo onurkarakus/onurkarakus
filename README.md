@@ -174,14 +174,6 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
 
 ---
 
-### 📈 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=onurkarakus&theme=transparent&hide_border=true&ring=0078D4&fire=512BD4&currStreakLabel=0078D4&disable_animations=true" alt="GitHub streak"/>
-</div>
-
----
-
 <div align="center">
   <br/>
   <p><i>"The code you write makes you a programmer. The code you delete makes you a good one."</i></p>
