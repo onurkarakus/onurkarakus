@@ -119,6 +119,7 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
 
 ![Azure](https://img.shields.io/badge/Azure-learning-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-learning-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 Working towards **AI-200** (Azure AI Cloud Developer) and **CKAD** (Kubernetes Application Developer), with hands-on projects for each.
 
