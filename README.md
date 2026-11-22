@@ -85,12 +85,6 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
   </tr>
 </table>
 
-<details>
-  <summary><b>▶️ TodoForge demo</b></summary>
-  <br/>
-  <img src="https://raw.githubusercontent.com/onurkarakus/todo-forge/main/media/screenshots/demo.gif" alt="TodoForge demo" width="100%"/>
-</details>
-
 ---
 
 ### 🏆 Microsoft Certifications
