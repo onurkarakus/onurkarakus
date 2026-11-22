@@ -1,7 +1,8 @@
-// Fetches install/download counts and ratings for my VS Code extensions from the
-// Visual Studio Marketplace and Open VSX, and writes Shields.io endpoint JSON files
-// to badges/. Shields retired its own Marketplace badges, so the profile README
-// reads these files through https://img.shields.io/endpoint?url=...
+// Fetches install counts and ratings for my VS Code extensions from the Visual
+// Studio Marketplace and writes Shields.io endpoint JSON files to badges/.
+// Shields retired its own Marketplace badges and the Marketplace API needs a POST,
+// so the profile README reads these files through https://img.shields.io/endpoint?url=...
+// Open VSX badges use Shields' native open-vsx badges, which read the API directly.
 //
 // Runs in GitHub Actions (see .github/workflows/extension-stats.yml). Node 20+.
 
@@ -13,7 +14,6 @@ const EXTENSIONS = [
 ];
 
 const MARKETPLACE_BLUE = '007ACC';
-const OPENVSX_PURPLE = 'C160EF';
 
 const compact = (n) => {
   if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(1).replace(/\.0$/, '')}M`;
@@ -56,25 +56,12 @@ const fetchMarketplace = async (id) => {
   };
 };
 
-const fetchOpenVsx = async (id) => {
-  const [namespace, name] = id.split('.');
-  const res = await fetch(`https://open-vsx.org/api/${namespace}/${name}`);
-  if (!res.ok) throw new Error(`Open VSX ${id}: HTTP ${res.status}`);
-  const ext = await res.json();
-  return {
-    version: ext.version ?? 'unknown',
-    downloads: ext.downloadCount ?? 0,
-    average: ext.averageRating ?? 0,
-    ratingCount: ext.reviewCount ?? 0,
-  };
-};
-
 await mkdir('badges', { recursive: true });
 const write = (file, data) => writeFile(`badges/${file}.json`, `${JSON.stringify(data, null, 2)}\n`);
 
 let failures = 0;
 for (const { id, slug } of EXTENSIONS) {
-  // A failure for one source keeps the last good file for that source.
+  // A failure keeps the last good files for that extension.
   try {
     const m = await fetchMarketplace(id);
     await write(`${slug}-marketplace-version`, badge('Marketplace', `v${m.version}`, MARKETPLACE_BLUE, 'visualstudiocode'));
@@ -85,16 +72,6 @@ for (const { id, slug } of EXTENSIONS) {
     failures++;
     console.error(String(err));
   }
-  try {
-    const o = await fetchOpenVsx(id);
-    await write(`${slug}-openvsx-version`, badge('Open VSX', `v${o.version}`, OPENVSX_PURPLE, 'eclipseide'));
-    await write(`${slug}-openvsx-downloads`, badge('downloads', compact(o.downloads), OPENVSX_PURPLE));
-    await write(`${slug}-openvsx-rating`, badge('rating', rating(o.average, o.ratingCount), OPENVSX_PURPLE));
-    console.log(`${id} Open VSX: v${o.version}, ${o.downloads} downloads, ${rating(o.average, o.ratingCount)}`);
-  } catch (err) {
-    failures++;
-    console.error(String(err));
-  }
 }
 
-if (failures === EXTENSIONS.length * 2) process.exit(1);
+if (failures === EXTENSIONS.length) process.exit(1);
