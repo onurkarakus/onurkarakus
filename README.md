@@ -22,6 +22,8 @@ Hi, I'm **Onur** — a **.NET Software Developer** building backend systems with
 
 I solve complex business problems using the **.NET ecosystem**, **Modular Monoliths**, **Vertical Slice Architecture**, and **Domain-Driven Design (DDD)** principles.
 
+At work, I'm part of a monolith-to-microservices transformation, applying DDD to define service boundaries.
+
 Currently exploring **AI Agents** (Semantic Kernel) and **.NET Aspire** to automate operational processes.
 
 ---
