@@ -37,26 +37,51 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
     <td width="50%" valign="top">
       <h3>
         <img src="https://raw.githubusercontent.com/onurkarakus/todo-forge/main/media/icon.png" width="28" height="28" align="center" alt="TodoForge icon"/>
-        <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge">TodoForge</a>
+        <a href="https://github.com/onurkarakus/todo-forge">TodoForge</a>
       </h3>
       <p>
         Every TODO in your code, in one tree, with owners, due dates and a Changes view for your branch.<br/>
         Fast on big .NET and web repos. Offline. No account. No telemetry.
       </p>
-      <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge"><img src="https://img.shields.io/badge/VS%20Marketplace-Install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Marketplace"/></a>
-      <a href="https://github.com/onurkarakus/todo-forge"><img src="https://img.shields.io/github/stars/onurkarakus/todo-forge?style=flat-square&logo=github" alt="GitHub stars"/></a>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-</td>
+      <p>
+        <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Ftodoforge-marketplace-version.json&style=flat-square&cacheSeconds=3600" alt="VS Marketplace version"/></a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Ftodoforge-marketplace-installs.json&style=flat-square&cacheSeconds=3600" alt="VS Marketplace installs"/></a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge&ssr=false#review-details"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Ftodoforge-marketplace-rating.json&style=flat-square&cacheSeconds=3600" alt="VS Marketplace rating"/></a>
+        <br/>
+        <a href="https://open-vsx.org/extension/onurkarakus/todoforge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Ftodoforge-openvsx-version.json&style=flat-square&cacheSeconds=3600" alt="Open VSX version"/></a>
+        <a href="https://open-vsx.org/extension/onurkarakus/todoforge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Ftodoforge-openvsx-downloads.json&style=flat-square&cacheSeconds=3600" alt="Open VSX downloads"/></a>
+        <a href="https://open-vsx.org/extension/onurkarakus/todoforge/reviews"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Ftodoforge-openvsx-rating.json&style=flat-square&cacheSeconds=3600" alt="Open VSX rating"/></a>
+        <br/>
+        <a href="https://github.com/onurkarakus/todo-forge"><img src="https://img.shields.io/github/stars/onurkarakus/todo-forge?style=flat-square&logo=github&label=stars" alt="GitHub stars"/></a>
+      </p>
+      <p>
+        <b>Install:</b> <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.todoforge">VS Marketplace</a> · <a href="https://open-vsx.org/extension/onurkarakus/todoforge">Open VSX</a> · <a href="https://github.com/onurkarakus/todo-forge">Source</a>
+      </p>
+    </td>
     <td width="50%" valign="top">
-      <h3><a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub">PackageHub</a></h3>
+      <h3>
+        <img src="https://raw.githubusercontent.com/onurkarakus/package-hub/master/media/packagehub-logo.png" width="28" height="28" align="center" alt="PackageHub icon"/>
+        <a href="https://github.com/onurkarakus/package-hub">PackageHub</a>
+      </h3>
       <p>
         Manage your NuGet packages inside the editor. See which packages are vulnerable, outdated or deprecated right on the package line, and apply the safe update in one click.<br/>
         C# · F# · <code>.csproj</code> · <code>.fsproj</code> · <code>.sln</code> · <code>Directory.Packages.props</code>
       </p>
-      <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub"><img src="https://img.shields.io/badge/VS%20Marketplace-Install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Marketplace"/></a>
-      <img src="https://img.shields.io/badge/VS_Code-Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension"/>
-      <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet"/>
-</td>
+      <p>
+        <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Fpackage-hub-marketplace-version.json&style=flat-square&cacheSeconds=3600" alt="VS Marketplace version"/></a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Fpackage-hub-marketplace-installs.json&style=flat-square&cacheSeconds=3600" alt="VS Marketplace installs"/></a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub&ssr=false#review-details"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Fpackage-hub-marketplace-rating.json&style=flat-square&cacheSeconds=3600" alt="VS Marketplace rating"/></a>
+        <br/>
+        <a href="https://open-vsx.org/extension/onurkarakus/package-hub"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Fpackage-hub-openvsx-version.json&style=flat-square&cacheSeconds=3600" alt="Open VSX version"/></a>
+        <a href="https://open-vsx.org/extension/onurkarakus/package-hub"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Fpackage-hub-openvsx-downloads.json&style=flat-square&cacheSeconds=3600" alt="Open VSX downloads"/></a>
+        <a href="https://open-vsx.org/extension/onurkarakus/package-hub/reviews"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fonurkarakus%2Fonurkarakus%2Fmain%2Fbadges%2Fpackage-hub-openvsx-rating.json&style=flat-square&cacheSeconds=3600" alt="Open VSX rating"/></a>
+        <br/>
+        <a href="https://github.com/onurkarakus/package-hub"><img src="https://img.shields.io/github/stars/onurkarakus/package-hub?style=flat-square&logo=github&label=stars" alt="GitHub stars"/></a>
+      </p>
+      <p>
+        <b>Install:</b> <a href="https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub">VS Marketplace</a> · <a href="https://open-vsx.org/extension/onurkarakus/package-hub">Open VSX</a> · <a href="https://github.com/onurkarakus/package-hub">Source</a>
+      </p>
+    </td>
   </tr>
 </table>
 
