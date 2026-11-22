@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0078D4&height=160&section=header" width="100%" alt=""/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Onur+Karakus;Senior+.NET+Developer;Cloud-Native+%26+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Onur+Karakus;.NET+Software+Developer;ASP.NET+Core+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Onur** — a Senior Software Developer specializing in **scalable distributed systems** and **Cloud-Native architectures**.
+Hi, I'm **Onur** — a **.NET Software Developer** building backend systems with **ASP.NET Core**, **PostgreSQL** and **Docker**.
 
 I solve complex business problems using the **.NET ecosystem**, **Modular Monoliths**, **Vertical Slice Architecture**, and **Domain-Driven Design (DDD)** principles.
 
@@ -78,7 +78,7 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,docker,kubernetes,postgres,redis,nextjs,flutter,ts&perline=10" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,docker,postgres,redis,nextjs,ts&perline=7" alt="Tech stack icons"/>
 </div>
 
 <br/>
@@ -95,19 +95,16 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=flat-square)
 ![CQRS](https://img.shields.io/badge/CQRS%20%2B%20MediatR-0A66C2?style=flat-square)
 </td>
-<td valign="top" width="25%"><b>Cloud & Infrastructure</b><br/><br/>
+<td valign="top" width="25%"><b>Data & Infrastructure</b><br/><br/>
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 </td>
-<td valign="top" width="25%"><b>Frontend & Mobile</b><br/><br/>
+<td valign="top" width="25%"><b>Frontend</b><br/><br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 </td>
 <td valign="top" width="25%"><b>AI & Observability</b><br/><br/>
@@ -117,6 +114,13 @@ I build and maintain VS Code extensions that keep everyday developer chores insi
 </td>
   </tr>
 </table>
+
+#### 📚 Currently learning
+
+![Azure](https://img.shields.io/badge/Azure-learning-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+Working towards **AI-200** (Azure AI Cloud Developer) and **CKAD** (Kubernetes Application Developer), with hands-on projects for each.
 
 ---
 
